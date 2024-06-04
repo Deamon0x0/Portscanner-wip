@@ -1,9 +1,6 @@
 ##### imports libararies ######
 import socket
-from queue import Queue
 from colorama import Fore, init
-import threading
-import argparse
 
 
 ########################## Portscanner Python  #####################
